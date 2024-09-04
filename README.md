@@ -15,7 +15,7 @@ Pong 2D Game is a modern take on the classic arcade game, developed in Java usin
 # Installation
 
 - Clone the repository:
-git clone https://github.com/your-username/pong-2d-game.git
+git clone https://github.com/SachinMaurya2002/Pong-2D-Game-Android.git
 - Open the project in Android Studio:
 - Navigate to File > Open and select the project folder.
 Build the project:
